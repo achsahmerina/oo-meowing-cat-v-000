@@ -5,8 +5,7 @@ class Cat
     if :name == "maru"
       return "meow!"
     end
-
+    maru = Cat.name("Maru")
+    maru.name
   end
-  maru = Cat.name("Maru")
-  maru.name
 end
