@@ -2,9 +2,8 @@
 class Cat
   attr_accessor :name
   def cat_name
-    maru = Cat.new
-    maru.name = "Maru"
-    maru.name
-    maru.meow
+    if :name = "maru"
+      return "meow!"
+    end
   end
 end
