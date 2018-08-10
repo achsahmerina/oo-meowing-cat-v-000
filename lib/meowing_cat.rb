@@ -6,5 +6,7 @@ class Cat
   maru.name = "Maru"
     if name = "Maru"
       return "meow!"
+    end
+    
 
 end
