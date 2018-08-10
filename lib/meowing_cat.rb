@@ -6,4 +6,4 @@ end
 
 maru = Cat.new
 maru.name = "meow!"
-maru.name
+puts maru.name
