@@ -4,8 +4,6 @@ class Cat
   def name=(maru)
     name = maru
   end
-    if name == "maru"
-      return "meow!"
-    end
+
 
 end
