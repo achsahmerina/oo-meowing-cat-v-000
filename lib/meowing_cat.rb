@@ -5,8 +5,8 @@ class Cat
   maru = Cat.new
   maru.name = "Maru"
     if name = "Maru"
-      return "meow!"
+      puts "meow!"
     end
-    
+
 
 end
