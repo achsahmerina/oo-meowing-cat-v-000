@@ -3,7 +3,8 @@ class Cat
   attr_accessor :name
   def cat_name
     if :name == "maru"
-      return maru.meow
+      return "meow!"
     end
+    maru.meow
   end
 end
